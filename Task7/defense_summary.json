@@ -1,0 +1,5 @@
+{
+  "defended_clean_accuracy": 0.9937000274658203,
+  "defended_adv_accuracy": 0.8450000286102295,
+  "note": "Model trained from scratch on clean + adversarial data (Option B)"
+}
