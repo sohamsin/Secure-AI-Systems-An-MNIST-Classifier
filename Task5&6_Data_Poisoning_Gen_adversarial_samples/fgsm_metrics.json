@@ -1,0 +1,6 @@
+{
+    "clean_accuracy": 1.0,
+    "fgsm_accuracy": 0.675,
+    "epsilon": 0.15,
+    "samples_used": 200
+}
